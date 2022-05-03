@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Alen
 
-![](https://komarev.com/ghpvc/?AlenAltman=AlenAltman)
-
 ## I'm a Juniot FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love to train in gym

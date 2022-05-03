@@ -2,12 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?AlenAltman=AlenAltman)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Juniot FrontEnd Developer
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I love to train in gym
 - 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- ⚡🏽 I like to shoot videos for @alen.codes 
 
 ### Connect with me:
 
@@ -33,16 +32,6 @@
 <br />
 <br />
 
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
-<!-- BLOG-POST-LIST:END -->
-
-
 
 <details>
   <summary>:zap: Statistics:</summary>
@@ -52,7 +41,5 @@
 </details>
 
 [website]: https://webtricks-master.ru/
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[linkedin]: https://www.linkedin.com/in/alen-altman-a203969a/
+[instagram]: https://www.instagram.com/alen.codes/

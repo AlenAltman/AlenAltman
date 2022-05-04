@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alen
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=AlenAltman)
 
 ## I'm a Juniot FrontEnd Developer
 - 💪 I'm currently leaning how to write code

@@ -6,7 +6,7 @@
 - 💪 I'm currently leaning how to write code
 - 🎉 I love to train in gym
 - 🥅 I am constantly learning new things
-- ⚡🏽 I like to shoot videos for @alen.codes 
+- ⚡ I like to shoot videos for @alen.codes 
 
 ### Connect with me:
 

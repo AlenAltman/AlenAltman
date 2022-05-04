@@ -3,7 +3,7 @@
 <br />
 
 ## I'm a Juniot FrontEnd Developer
-- 💪 I like to write code
+- 💪 I'm currently leaning how to write code
 - 🎉 I love to train in gym
 - 🥅 I am constantly learning new things
 - ⚡🏽 I like to shoot videos for @alen.codes 

@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlenAltman)
 
-## I'm a Juniot FrontEnd Developer
+## I'm a Junior FrontEnd Developer
 - 💪 I'm currently leaning how to write code
 - 🎉 I love to train in gym
 - 🥅 I am constantly learning new things

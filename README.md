@@ -30,7 +30,7 @@
 
 ### I speak:
 <img align="left" alt="ENG" width="26px" src="https://native-english.com.ua/wp-content/uploads/2017/10/angliyskiy-flag_preview.png" />
-<img align="left" alt="RU" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/250px-Flag_of_Russia.svg.png" />
+<img align="left" alt="RU" width="26px" src="https://klike.net/uploads/posts/2020-09/1599833816_2.jpg" />
 <img align="left" alt="UKR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png" />
 
 

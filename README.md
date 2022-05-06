@@ -4,12 +4,9 @@
 
 ## I'm a Junior FrontEnd Developer
 
-<details>
-  <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenAltman&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlenAltman&show_icons=true" />
-</details>
 
 - 💪 I'm currently leaning how to write code
 - 🎉 I love to train in gym

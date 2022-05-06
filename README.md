@@ -4,10 +4,6 @@
 
 ## I'm a Junior FrontEnd Developer
 
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenAltman&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlenAltman&show_icons=true" />
-
 - 💪 I'm currently leaning how to write code
 - 🎉 I love to train in gym
 - 🥅 I am constantly learning new things
@@ -41,6 +37,9 @@
 <br />
 <br />
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenAltman&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlenAltman&show_icons=true" />
 
 [website]: https://apple.com/
 [linkedin]: https://www.linkedin.com/in/alen-altman-a203969a/

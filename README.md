@@ -19,7 +19,7 @@
 
 ### I speak:
 <img align="left" alt="ENG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/250px-Flag_of_the_United_Kingdom_%283-5%29.svg.png" />
-<img align="left" alt="RU" width="26px" src="https://klike.net/uploads/posts/2020-09/1599833816_2.jpg" />
+<img align="left" alt="RU" width="26px" src="http://ic.pics.livejournal.com/tema/339052/409002/409002_original.gif" />
 <img align="left" alt="UKR" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png" />
 
 <br />
